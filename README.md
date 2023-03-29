@@ -67,7 +67,7 @@ I'm also willing to learn java soon along with some c# for game developpement bu
     <img src="https://lanyard.kyrie25.me/api/881823423033122857"  />
   </div>
 <br>
-<p align="center"><a href="https://twitter.com/rayd3r2070" target="_blank"><img src="https://img.shields.io/badge/rayd3r2070%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a target="_blank"><img src="https://img.shields.io/badge/ju__%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a><img href="https://www.reddit.com/user/Fenrir426" src="https://img.shields.io/badge/Fenrir426-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"</a></p>
+<p align="center"><a href="https://twitter.com/rayd3r2070" target="_blank"><img src="https://img.shields.io/badge/rayd3r2070%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a target="_blank"><img src="https://img.shields.io/badge/ju__%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.reddit.com/user/Fenrir426" target="_blank"><img src="https://img.shields.io/badge/Fenrir-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a></p>
 </div>
 
 <div>
