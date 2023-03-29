@@ -6,7 +6,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Fenriir42&&show_icons=true&theme=radical"/>
   </a>
-    <br>
+  <br>
+  <br>
   <p>I had no intention of deceiving anyone.</p>
   <p>It's just that none of you could understand ...</p>
   <p>My true self</p>
@@ -18,6 +19,10 @@
   <div align="center">
 <img src="https://gifdb.com/images/high/rt0yri6so9ip2wtm.webp"align="right"width="25%">
   </div>
+  <br>
+  <br>
+  <br>
+  <br>
 <li>
  <b>Name:</b> julien</li>
 <li>
