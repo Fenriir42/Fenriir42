@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Fenriir42"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Fenriir42&theme=github_dark"/>
   </a>
   <br>
   <br>
