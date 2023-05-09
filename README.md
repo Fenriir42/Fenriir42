@@ -12,7 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fenriir42&amp;theme=github_dark" height="180px" alt=""/>
   <img src="https://lanyard.kyrie25.me/api/881823423033122857" height="180px" alt=""/>
 
-
+<details>
+  <summary>read more</summary>
+  
   ## ~ about me ~
 
   <div>
@@ -71,3 +73,4 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTUyNTBkYjEyNzFjNGI4ZGIwODViN2VhZWVhMWI1OTc4ODZmZWE4NyZjdD1n/8uaOiZk0xg2Na/giphy.gif" alt="">
 
 </div>
+</details>
