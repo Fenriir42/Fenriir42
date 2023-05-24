@@ -1,5 +1,4 @@
 
-
 <div>
   <h1>~ Welcome, to my profile ~</h1>
 
@@ -9,7 +8,7 @@
     <span>My true self</span>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenriir42&amp;theme=github_dark" height="180px" alt=""/>
+  ![Fenriir42's GitHub stats](https://my-stats-icvt.vercel.app/api?username=Fenriir42&amp&count_private=true&bg_color=90,171515,171515,FF0000,FF0000&hide_border=true&ring_color=FF0000&title_color=FF0000&title_bold=true&text_color=e8eaea)
   <img src="https://lanyard.kyrie25.me/api/881823423033122857" height="180px" alt=""/>
 
 <details>
