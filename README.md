@@ -21,7 +21,6 @@ My true self
 + **Working :** @Epitech (student)
 + **Learning :** mainly C & other stuff (web, dev, bash ...)
 </div>
-</div>
   
 ## ~ :notebook: Knowledge :notebook: ~
   
